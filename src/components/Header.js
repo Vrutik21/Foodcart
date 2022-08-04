@@ -109,7 +109,7 @@ const Header = () => {
                               <img
                                 src={e.imgdata}
                                 alt="itemImg"
-                                style={{ width: "6rem", height: "6rem" }}
+                                style={{ width: "7rem", height: "6rem" }}
                               />
                             </NavLink>
                           </td>
