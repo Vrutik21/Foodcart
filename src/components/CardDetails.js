@@ -29,7 +29,7 @@ const CardDetails = () => {
 
   const dlt = (id) => {
     dispatch(DEL(id));
-    history("/");
+    history("/eCommerce-vrutik");
   };
 
   const send = (e) => {
