@@ -102,7 +102,10 @@ const Header = () => {
                       <>
                         <tr>
                           <td>
-                            <NavLink to={`cart/${e.id}`} onClick={handleClose}>
+                            <NavLink
+                              to={`/eCommerce-vrutik/cart/${e.id}`}
+                              onClick={handleClose}
+                            >
                               <img
                                 src={e.imgdata}
                                 alt="itemImg"
