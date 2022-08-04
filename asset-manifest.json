@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eCommerce-vrutik/static/css/main.577ea0dc.css",
-    "main.js": "/eCommerce-vrutik/static/js/main.63d896a8.js",
+    "main.js": "/eCommerce-vrutik/static/js/main.9054667b.js",
     "static/media/icons8-add-shopping-cart.gif": "/eCommerce-vrutik/static/media/icons8-add-shopping-cart.e7ea63f2b60f1e5186dc.gif",
     "index.html": "/eCommerce-vrutik/index.html",
     "main.577ea0dc.css.map": "/eCommerce-vrutik/static/css/main.577ea0dc.css.map",
-    "main.63d896a8.js.map": "/eCommerce-vrutik/static/js/main.63d896a8.js.map"
+    "main.9054667b.js.map": "/eCommerce-vrutik/static/js/main.9054667b.js.map"
   },
   "entrypoints": [
     "static/css/main.577ea0dc.css",
-    "static/js/main.63d896a8.js"
+    "static/js/main.9054667b.js"
   ]
 }
