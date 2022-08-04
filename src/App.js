@@ -9,8 +9,8 @@ function App() {
   return (
     <div>
       <Header />
+      <Cards />
       <Routes>
-        <Route path="/" element={<Cards />} />
         <Route path="/cart/:id" element={<CardDetails />} />
       </Routes>
     </div>
