@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ecommerce-redux/static/css/main.577ea0dc.css",
-    "main.js": "/ecommerce-redux/static/js/main.be736a0d.js",
-    "static/media/icons8-add-shopping-cart.gif": "/ecommerce-redux/static/media/icons8-add-shopping-cart.e7ea63f2b60f1e5186dc.gif",
-    "index.html": "/ecommerce-redux/index.html",
-    "main.577ea0dc.css.map": "/ecommerce-redux/static/css/main.577ea0dc.css.map",
-    "main.be736a0d.js.map": "/ecommerce-redux/static/js/main.be736a0d.js.map"
+    "main.css": "/eCommerce-vrutik/static/css/main.577ea0dc.css",
+    "main.js": "/eCommerce-vrutik/static/js/main.ce762395.js",
+    "static/media/icons8-add-shopping-cart.gif": "/eCommerce-vrutik/static/media/icons8-add-shopping-cart.e7ea63f2b60f1e5186dc.gif",
+    "index.html": "/eCommerce-vrutik/index.html",
+    "main.577ea0dc.css.map": "/eCommerce-vrutik/static/css/main.577ea0dc.css.map",
+    "main.ce762395.js.map": "/eCommerce-vrutik/static/js/main.ce762395.js.map"
   },
   "entrypoints": [
     "static/css/main.577ea0dc.css",
-    "static/js/main.be736a0d.js"
+    "static/js/main.ce762395.js"
   ]
 }
