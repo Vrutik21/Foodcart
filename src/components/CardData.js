@@ -63,7 +63,7 @@ const Cardsdata = [
     id: 5,
     rname: "Shri Krishna Parathe",
     imgdata:
-      "https://merokhaja.com/wp-content/uploads/2019/04/aalu-paratha-in-butwal-600x358.png",
+      "https://b.zmtcdn.com/data/pictures/6/3601606/2b7913eb3e5252ba4df1b9a074e6c472.jpg",
     address: "North Indian",
     delimg:
       "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
