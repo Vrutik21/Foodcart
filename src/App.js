@@ -9,9 +9,9 @@ function App() {
   return (
     <div>
       <Header />
-      <Cards />
       <Routes>
-        <Route path="/cart/:id" element={<CardDetails />} />
+        <Route path="/eCommerce-vrutik" element={<Cards />} />
+        <Route path="/eCommerce-vrutik/cart/:id" element={<CardDetails />} />
       </Routes>
     </div>
   );
