@@ -46,12 +46,15 @@ const Header = () => {
     <div>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <NavLink to="/" className="text-decoration-none text-light fs-4 mx-4">
+          <NavLink
+            to="/eCommerce-vrutik"
+            className="text-decoration-none text-light fs-4 mx-4"
+          >
             E-commerce App
           </NavLink>
           <Nav className="me-auto">
             <NavLink
-              to="/"
+              to="/eCommerce-vrutik"
               className="text-decoration-none text-light fs-5 my-1"
             >
               Home
